@@ -42,7 +42,7 @@ In this tutorial we'll use the Places API.
     results = json.loads(res.content) #Reading the object into readable dictionary
     return results 
   ```
- * In here, we used the [Nearby Seach Method]https://developers.google.com/places/web-service/search#PlaceSearchRequests
+ * In here, we used the [Nearby Seach Method](https://developers.google.com/places/web-service/search#PlaceSearchRequests)
  * You will read that the requiered parameters are location: (latitude, longitude), the radius, type, and your API key.
  * With the based url: https://maps.googleapis.com/maps/api/place/nearbysearch/output?parameters
  * You'll choose your output (can be json or a xml) after that a "?" is required to start to put the parameters
