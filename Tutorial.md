@@ -10,7 +10,7 @@ To begin with, you need to have a Google API, and for that is a requierment to h
 6. It will display a box with your API Key, you should copy and save it.
 7. Now, restrict the API key before using it.
 
-## Decide what you would like to do.
+## Decide what you would like to do
 Google gives you a library with all the the APIs of their own. Depending on what you'd like to do you should choose.
 e.g. Places API, Gmail API, Google Drive API, Youtube Analytics API, etc.
 In this tutorial we'll use the Places API.
