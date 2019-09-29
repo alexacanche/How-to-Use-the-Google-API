@@ -100,4 +100,12 @@ how internaly works and to further works.
 [Python Client for Google Maps Services Documentation](https://googlemaps.github.io/google-maps-services-python/docs/#module-googlemaps)
 
 
+## Authors and acknowledgment
+Authors' accounts:
+
+[Alexa Canche](https://github.com/alexacanche)
+
+[Samuel Venegas](https://github.com/Sam9Ves3)
+
+[Guillermo Montes de Oca](https://github.com/montesdeocaG)
 
