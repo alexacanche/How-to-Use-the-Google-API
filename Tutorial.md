@@ -2,7 +2,7 @@
 
 ## Get your API KEY
 To begin with, you need to have a Google API, and for that is a requierment to have a an account and to debit/credit card.
-1. [Enter to Google Cloud Console](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj5mb3ntPbkAhUQboYKHeh3DBoYABAAGgJ2dQ&ohost=www.google.com&cid=CAESEeD2a-isKx0bOlEmqvWSj8nQ&sig=AOD64_1Q1jDJoR8xP0O3PioSJdZWOb--BA&q=&ved=2ahUKEwjo17XntPbkAhXSuFkKHW8JB1sQ0Qx6BAgLEAE&adurl=)
+1. Enter to [Google Cloud Console](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj5mb3ntPbkAhUQboYKHeh3DBoYABAAGgJ2dQ&ohost=www.google.com&cid=CAESEeD2a-isKx0bOlEmqvWSj8nQ&sig=AOD64_1Q1jDJoR8xP0O3PioSJdZWOb--BA&q=&ved=2ahUKEwjo17XntPbkAhXSuFkKHW8JB1sQ0Qx6BAgLEAE&adurl=)
 2. You'll see a bar that says "select a project" in which you'll press where it says "create".
 3. Write the name of your project and the ubication.
 4. On the left, there is a column with various names, in which you'll press APIs & Services an then Credentials.
@@ -16,7 +16,7 @@ e.g. Places API, Gmail API, Google Drive API, Youtube Analytics API, etc.
 In this tutorial we'll use the Places API.
  * On the same column where you pressed APIs & Services, you'll see the library
  * When you chose the API that you'll use, click on the "enable" bottom.
- * The go to https://developers.google.com/
+ * The go to [Developers](https://developers.google.com/)
  * Homepage > products > Google Maps Platform >Documentation > Places API > Guides
  * There it will explain the requeried and optional parameterz for whatever it is that you would like to do.
  
